@@ -3,7 +3,7 @@ ASME 10/8/2025
 
 Hello and welcome! 
 
-This workshop will be structed by the skillsets needed to make the parts at hand. 
+This workshop will be structured by the skillsets needed to make the parts at hand. 
 
 1) Beginner: Using UI, Sketching, extruding, cutting.
 2) Intermediate: Assemblies, mating, drawings.
